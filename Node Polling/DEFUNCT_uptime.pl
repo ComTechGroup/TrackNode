@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
+# Script deprecated due to platform-dependence; use uptimev2.pl
+
 #############################################
 # Script is part of the TrackNode project.
 # Licensing and other information is available at http://sourceforge.net/projects/tracknode
