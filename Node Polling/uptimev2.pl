@@ -4,8 +4,8 @@
 
 #############################################
 # Script is part of the TrackNode project.
-# Licensing and other information is available at http://sourceforge.net/projects/tracknode
-# Developer offers NO WARRANTY for this product
+# Licensing and other information is available at https://github.com/ComTechGroup/TrackNode
+# Developers offers NO WARRANTY for this product
 # Software is in experimental development stage - use at your own risk
 #############################################
 
